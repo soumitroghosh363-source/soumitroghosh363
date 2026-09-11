@@ -20,9 +20,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=soumitroghosh363-source&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/soumitroghosh363-source?style=for-the-badge&color=6D28D9&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/soumitroghosh363-source?style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=soumitroghosh363&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/soumitroghosh363?style=for-the-badge&color=6D28D9&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/soumitroghosh363?style=for-the-badge&color=A78BFA&labelColor=1a1a2e)
 
 </div>
 
